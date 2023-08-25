@@ -1,0 +1,16 @@
+*{
+  padding: 0;
+  border:0;
+  margin: 0;
+  display: border-box;
+}
+
+.container{
+  width: 100%;
+  height: 100vh;
+  background-color: #FFDF2C;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: column;
+}
